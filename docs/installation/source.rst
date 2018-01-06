@@ -1,5 +1,5 @@
-Building ADAM from Source
-=========================
+Building Avocado from Source
+============================
 
 You will need to have `Apache Maven <http://maven.apache.org/>`__
 version 3.1.1 or later installed in order to build Avocado.
